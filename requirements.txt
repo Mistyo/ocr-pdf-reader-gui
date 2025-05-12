@@ -1,4 +1,9 @@
 streamlit
 pytesseract
-pillow
 PyMuPDF
+Pillow
+gTTS
+num2words
+transformers
+torch
+sentencepiece
